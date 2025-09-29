@@ -9,7 +9,7 @@ Atuo desde a gestão de projetos até a análise e programação, com foco em **
 
 - **Consultor Sênior Mainframe – Indra/Minsait | Banco do Brasil** (2022–atual)  
   - Apoio a equipes **Mainframe** e **Java/Angular** em projetos de integração via **IBM WebSphere MQ** e **CICS Channels & Containers**.  
-  - Forte atuação em **COBOL, DB2, JCL, VSAM**.  
+  - Forte atuação em **CICS, COBOL, DB2, JCL, VSAM, RDZ (BB KDZ), SQL, DBEAVER**.  
   - Implantação e suporte em **esteiras DevOps (CI/CD)** com Jira, Bitbucket, Confluence e SonarQube.  
   - Participação em squads ágeis, garantindo entregas contínuas e mitigação de riscos.  
 
@@ -25,7 +25,7 @@ Atuo desde a gestão de projetos até a análise e programação, com foco em **
 ---
 
 ## 🚀 Principais Competências
-- **Mainframe**: COBOL, JCL, DB2, IMS, VSAM, TSO/ISPF, Changeman.  
+- **Mainframe**: CICS, COBOL, JCL, DB2, IMS, VSAM, TSO/ISPF, ROSCOE, ENDEVOR, Changeman.  
 - **DevOps**: CI/CD, Jira, Confluence, Bitbucket, SonarQube, Control-M.  
 - **Integração**: CICS Channels & Containers, IBM WebSphere MQ, APIs.  
 - **Gestão de Projetos**: metodologias ágeis (Scrum/Kanban), planejamento, mitigação de riscos.  
